@@ -1,0 +1,6 @@
+[submodule "micro-a"]
+	path = micro-a
+	url = https://github.com/bemillenium/sub-a
+[submodule "micro-b"]
+	path = micro-b
+	url = https://github.com/bemillenium/sub-b
