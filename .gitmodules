@@ -4,3 +4,6 @@
 [submodule "micro-b"]
 	path = micro-b
 	url = https://github.com/bemillenium/sub-b
+[submodule "c-test"]
+	path = c-test
+	url = https://github.com/bemillenium/sub-c
